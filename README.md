@@ -1,10 +1,10 @@
 # 01 HTML, CSS, and Git: Code Refactor Challenge/Assignment
 
-# <Your-Project-Title>
-
 ## Description
 
 The following is my working screenshot of the refactored website. The semantics in the HTML has been added and CSS condensed.
+
+What is the purpose of this project?
 
 - Customer wants the site to be SEO friendly.
 - Customer wants the site to have HTML semantics for accessibility.

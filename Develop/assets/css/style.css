@@ -20,6 +20,7 @@ body {
   font-size: 48px;
 }
 
+/* nav header link's container */
 .header div {
   padding-top: 15px;
   margin-right: 20px;
@@ -28,6 +29,7 @@ body {
   font-size: 20px;
 }
 
+/* nav header links */
 .header div ul li {
   display: inline-block;
   margin-left: 25px;
@@ -53,13 +55,13 @@ a {
   margin-left: 25px;
 }
 
-.content {
+.content-container {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
-.benefits {
+.benefits-container {
   margin-right: 20px;
   padding: 20px;
   float: right;
